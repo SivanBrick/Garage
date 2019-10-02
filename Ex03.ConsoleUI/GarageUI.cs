@@ -10,7 +10,7 @@ namespace Ex03.ConsoleUI
         private readonly Garage r_MyGarage = new Garage();
 
         string m_MainMenu = "Which action do you want to do? Pleace choose a number <1-8> : \n" +
-                           "1 - Enter new vehicle \n" +
+                           "1 - Enter a new vehicle \n" +
                            "2 - Get all the vehicles lisence's number in the garage \n" +
                            "3 - Fueling vehicle (fuel vehicles only) \n" +
                            "4 - Charge your vehicle (Electric vehicle only) \n" +
